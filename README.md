@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayawantyash
 - 👀 I’m interested in da/ba
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning da/ba
 
 
 <!---
